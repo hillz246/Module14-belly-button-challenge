@@ -23,6 +23,11 @@ Use otu_labels as the hovertext for the chart.
 
 3. Create a bubble chart that displays each sample.
 
+   result: http://127.0.0.1:5500/Module14-belly-button-challenge/index.html
+
+   ![image](https://github.com/user-attachments/assets/af1e2fa5-7c24-4ede-b84e-7b07fb819136)
+
+
 Use otu_ids for the x values.
 
 Use sample_values for the y values.

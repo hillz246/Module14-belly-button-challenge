@@ -42,7 +42,7 @@ Append an html tag with that text to the #sample-metadata panel.
 
 5. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard.
 
-## result: http://127.0.0.1:5500/Module14-belly-button-challenge/index.html
+## result: 
 
 ![image](https://github.com/user-attachments/assets/6c4754b1-0bc0-481f-b779-2ed47a7cb2c4)
 
